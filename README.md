@@ -25,4 +25,5 @@ A simple web application that allows users to generate QR codes from text or URL
 
 ## Credits
 
-This application uses the [qrcode.js](https://github.com/davidshimjs/qrcodejs) library for QR code generation. 
+This application uses the [qrcode.js](![image](https://github.com/user-attachments/assets/21accdf0-ea88-4931-889d-51fa933f56a8)
+) library for QR code generation. 
